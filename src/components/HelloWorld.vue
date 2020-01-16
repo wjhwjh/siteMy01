@@ -1,5 +1,6 @@
 <template>
   <div class="hello">
+  没有内容的子组件
   </div>
 </template>
 
